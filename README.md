@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![Jinserioupspark's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinseriouspark)](https://github.com/jinseriouspark/github-readme-stats)
 
